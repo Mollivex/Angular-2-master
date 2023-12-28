@@ -1,4 +1,4 @@
-# Angular-2-master (Ninja List Application)
+# Angular-2-master (List Application)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
